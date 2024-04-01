@@ -21,12 +21,23 @@
   font-size: 16px;
 }
 
+
 #main_title li {
   display: inline-block;
   width: 50%;
   position: relative;
   height: 100%;
   text-align: center;
+}
+#main_title li
+{	
+	display: inline-block;
+	width: 50%;
+	position: relative;
+	height: 100%;
+	text-align: center;
+	border-top: 2px solid transparent;
+
 }
 
 #main_title li:hover {
